@@ -1,0 +1,3 @@
+# Carpetas y archivos que se van a ignorar
+node_modules
+.env
